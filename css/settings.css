@@ -1,0 +1,26 @@
+section{
+    font-size: 19px;
+}
+
+.user-avatar{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.label{
+    margin-top: 14px;
+    color: #7B3014;
+}
+
+.visible-button{
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.visible-button>a{
+    text-decoration: none;
+    background-color: #7B3014;
+    color: white;
+    padding: 5px 88px;
+    border-radius: 5px;
+}

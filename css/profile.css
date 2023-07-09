@@ -1,0 +1,50 @@
+section{
+    font-size: calc(18px + 0.2vw);
+    margin-bottom: 32px;
+}
+
+.user-avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+.label{
+    color: #7B3014;
+    margin-top: 20px;
+}
+
+.wishlist-button{
+    text-decoration: none;
+    background-color: #F98C40;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+.wishlist-button>img{
+    height: 20px;
+    margin-right: 10px;
+    margin-bottom: -2px;
+}
+
+.status{
+    background-color: #7B3014;
+    color: white;
+    width: calc(25vw + 120px);
+    padding: 4px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.icon-wrapper{
+    margin-bottom: 20px;
+}
+
+.icon{
+    height: 36px;
+    padding: 6px;
+    background-color: #C8C9CA;
+    border-radius: 6px;
+    margin: 0 12px;
+}

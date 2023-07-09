@@ -1,0 +1,25 @@
+.card-wrapper{
+    margin: 30px auto;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.card{
+    text-decoration: none;
+    color: black;
+}
+
+.inline{
+    display: flex;
+    flex-direction: row;
+}
+
+.user-avatar{
+    height: 120px;
+    border-radius: 60px;
+    margin: 14px 24px;
+}
+
+.user-profile{
+    margin: auto 24px auto 0;
+}

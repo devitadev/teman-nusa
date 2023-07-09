@@ -1,0 +1,32 @@
+section{
+    background-color: white;
+}
+
+.inline{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+
+.label{
+    margin-bottom: 8px;
+    font-weight: bolder;
+}
+
+input{
+    margin-right: 8px;
+}
+
+button{
+    padding: 5px;
+    margin-top: 4px;
+    background-color: #236CA7;
+    color: white;
+    border: white;
+    border-radius: 8px;
+    width: 100px;
+}
+
+.cards{
+    margin-top: 40px;
+}

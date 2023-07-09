@@ -1,0 +1,45 @@
+form{
+    max-width: 520px;
+    margin: auto;
+    margin-top: 32px;
+}
+
+.readonly, .readonly:focus, .price{
+    border: 0px solid;
+    outline: none;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #7B3014;
+}
+
+.inline{
+    display: flex;
+    flex-direction: row;
+}
+
+.label{
+    margin: 28px 0 10px 0;
+    font-size: 18px;
+}
+
+.payment{
+    width: calc(100% - 16px);
+    padding: 6px;
+    font-size: 18px;
+}
+
+button{
+    width: 100%;
+    padding: 7px;
+    margin: 24px 0;
+    background-color: #236CA7;
+    color: white;
+    border: white;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.errMsg{
+    color: red;
+    display: none;
+}

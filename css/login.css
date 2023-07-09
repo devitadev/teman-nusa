@@ -1,0 +1,47 @@
+.wrapper{
+    max-width: 500px;
+    margin: 32px auto;
+}
+
+.title{
+    margin-bottom: 32px;
+}
+
+.label{
+    margin: 18px 0 8px 0;
+}
+
+input{
+    width: calc(100% - 16px);
+    padding: 6px;
+}
+
+button{
+    width: 100%;
+    padding: 7px;
+    margin-top: 24px;
+    background-color: #236CA7;
+    color: white;
+    border: white;
+    border-radius: 8px;
+}
+
+button:hover{
+    background-color: #025ba3;
+}
+
+.register{
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    margin: 16px auto 0 auto;
+}
+
+.register a{
+    margin-left: 5px;
+}
+
+.errMsg{
+    color: red;
+    display: none;
+}

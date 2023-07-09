@@ -1,0 +1,24 @@
+.saldo{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+.button-topup{
+    width: fit-content;
+    margin: 36px auto 10px auto;
+}
+
+.button-topup>a{
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    padding: 6px 100px;
+    font-size: 18px;
+    background-color: #D04A07;
+}
+
+.button-topup>a:hover{
+    background-color: #d27f55;
+}

@@ -1,0 +1,43 @@
+.cards{
+    margin-top: 24px;
+}
+
+.button{
+    height: 20px;
+    margin: 16px auto auto auto;
+}
+
+.button>a{
+    text-decoration: none;
+    padding: 5px 24px;
+    background-color: #236CA7;
+    color: white;
+    border-radius: 5px;
+}
+
+.gift>a{
+    background-color: #7B3014;
+}
+
+.avatar-img{
+    margin-bottom: 16px;
+}
+
+.shop{
+    width: fit-content;
+    font-size: 20px;
+    margin: 36px auto 48px auto;
+}
+
+.shop>a{
+    padding: 10px 24px;
+    background-color: #7B3014;
+}
+
+.shop:hover{
+    background-color: #F98C40;
+}
+
+.price{
+    margin-bottom: 16px;
+}

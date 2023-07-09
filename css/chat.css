@@ -1,0 +1,51 @@
+section{
+    margin-bottom: 32px;
+}
+
+.title{
+    margin-bottom: calc(30px + 1.5vw);
+}
+
+.sent, .receive{
+    padding: 6px;
+    margin-bottom: 8px;
+    width: fit-content;
+    border-radius: 4px;
+}
+
+.sent{
+    background-color: #5aa5cdac;
+    margin-left: auto;
+}
+
+.receive{
+    background-color: #c8c9caa8;
+}
+
+.name{
+    font-size: 12px;
+    font-weight: bolder;
+    margin-bottom: 4px;
+}
+
+.form-wrapper{
+    margin-top: 24px;
+}
+
+textarea{
+    width: calc(100% - 12px);
+    max-width: calc(100% - 12px);
+    min-width: calc(100% - 12px);
+    padding: 4px 6px;
+}
+
+.send{
+    width: 128px;
+    padding: 6px;
+    margin-top: 6px;
+    background-color: #7B3014;
+    color: white;
+    border: white;
+    border-radius: 4px;
+    float: right;
+}
